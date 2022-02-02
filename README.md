@@ -1,0 +1,1 @@
+Privilege escalation for macOS, for my personal learning purpose.
